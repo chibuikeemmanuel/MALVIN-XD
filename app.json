@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MALVIN-XD~Alo0SK5C#M6JqMNKrIJ9DCXDX9_NDCoe1abVRdutMRhlbAol6V84",
       "required": true,
       "value": ""
     },  
